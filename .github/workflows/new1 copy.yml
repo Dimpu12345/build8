@@ -1,12 +1,12 @@
 
-name: PR Workflow  
+name: PR8 Workflow  
 
 
 on:
   
   pull_request:
     branches:
-      - branch4
+      - branch3
 
 jobs:
   build:
