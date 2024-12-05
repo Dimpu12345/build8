@@ -1,1 +1,1 @@
-print("Devlats")
+print("Devlats123")

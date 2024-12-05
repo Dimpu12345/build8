@@ -1,8 +1,8 @@
-name: CI/CD Workflow  
+name: PR Workflow  
 
 on:
   
-  pull:
+  pull_request:
     branches:
       - branch2
 
