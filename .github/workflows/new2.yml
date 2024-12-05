@@ -4,7 +4,7 @@ on:
   
   pull_request:
     branches:
-      - branch2
+      - branch3
 
 jobs:
   build:
